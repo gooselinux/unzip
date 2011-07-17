@@ -59,6 +59,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_mandir}/*/*
 
 %changelog
+* Sun Jul 17 2011 Mike Adams <shalkie@gooseproject.org - 6.0-1
+-Initail rebuild for GoOSe Linux 6
+
 * Tue May 25 2010 Karel Klic <kklic@redhat.com> - 6.0-1
 - Rebase to upstream 6.0
   Resolves: #594860
